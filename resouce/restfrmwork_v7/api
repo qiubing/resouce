@@ -1,0 +1,8 @@
+http://127.0.0.1:1234/tcconfig/htb/qdisc?act=add&dev=eth0&default=12&type=xml
+
+
+127.0.0.1:1234/tcconfig/htb/class?act=add&dev=eth0&rate=1000&ceil=1000&class1=10&rate1=800&ceil1=1000
+&prio1=0&class2=11&rate2=200&ceil2=1000&prio2=1&delay=100&type=xml
+
+http://127.0.0.1:1234/tcconfig/htb/filter?act=add&dev=eth0&protocol=ip&pref1=1&ipsrc1=10.0.0.1&flowid1=10
+&pref2=2&ipsrc2=10.0.0.2&flowid2=11&type=xml

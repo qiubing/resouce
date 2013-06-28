@@ -1,0 +1,547 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+ACCEPT	plibc.h	593;"	d
+ACCEPT	plibc.h	691;"	d
+ACCESS	plibc.h	552;"	d
+ACCESS	plibc.h	652;"	d
+BIND	plibc.h	594;"	d
+BIND	plibc.h	692;"	d
+BINDTEXTDOMAIN	plibc.h	535;"	d
+BINDTEXTDOMAIN	plibc.h	634;"	d
+CHDIR	plibc.h	548;"	d
+CHDIR	plibc.h	646;"	d
+CHMOD	plibc.h	553;"	d
+CHMOD	plibc.h	653;"	d
+CLOSE	plibc.h	549;"	d
+CLOSE	plibc.h	647;"	d
+CLOSEDIR	plibc.h	545;"	d
+CLOSEDIR	plibc.h	643;"	d
+CONNECT	plibc.h	595;"	d
+CONNECT	plibc.h	693;"	d
+CREAT	plibc.h	537;"	d
+CREAT	plibc.h	636;"	d
+CTIME_R	plibc.h	539;"	d
+CTIME_R	plibc.h	638;"	d
+DAUTH_SUPPORT	MHD_config.h	13;"	d
+DIR_SEPARATOR	plibc.h	528;"	d
+DIR_SEPARATOR	plibc.h	627;"	d
+DIR_SEPARATOR_STR	plibc.h	529;"	d
+DIR_SEPARATOR_STR	plibc.h	628;"	d
+EADDRINUSE	plibc.h	182;"	d
+EADDRNOTAVAIL	plibc.h	197;"	d
+EADV	plibc.h	145;"	d
+EAFNOSUPPORT	plibc.h	176;"	d
+EALREADY	plibc.h	192;"	d
+EBADE	plibc.h	127;"	d
+EBADFD	plibc.h	154;"	d
+EBADMSG	plibc.h	152;"	d
+EBADR	plibc.h	128;"	d
+EBADRQC	plibc.h	131;"	d
+EBADSLT	plibc.h	132;"	d
+EBFONT	plibc.h	136;"	d
+ECASECLASH	plibc.h	211;"	d
+ECOMM	plibc.h	147;"	d
+ECONNABORTED	plibc.h	183;"	d
+ECONNREFUSED	plibc.h	181;"	d
+ECONNRESET	plibc.h	174;"	d
+EDEADLK	plibc.h	122;"	d
+EDEADLOCK	plibc.h	134;"	d
+EDESTADDRREQ	plibc.h	193;"	d
+EDOTDOT	plibc.h	151;"	d
+EDQUOT	plibc.h	204;"	d
+EHOSTDOWN	plibc.h	189;"	d
+EHOSTUNREACH	plibc.h	190;"	d
+EINPROGRESS	plibc.h	191;"	d
+EISCONN	plibc.h	199;"	d
+EL2HLT	plibc.h	120;"	d
+ELBIN	plibc.h	150;"	d
+ELIBACC	plibc.h	156;"	d
+ELIBBAD	plibc.h	157;"	d
+ELIBEXEC	plibc.h	160;"	d
+ELIBMAX	plibc.h	159;"	d
+ELIBSCN	plibc.h	158;"	d
+ELOOP	plibc.h	171;"	d
+EMSGSIZE	plibc.h	194;"	d
+EMULTIHOP	plibc.h	149;"	d
+ENAMETOOLONG	plibc.h	169;"	d
+ENETDOWN	plibc.h	185;"	d
+ENETRESET	plibc.h	198;"	d
+ENETUNREACH	plibc.h	184;"	d
+ENMFILE	plibc.h	164;"	d
+ENOANO	plibc.h	130;"	d
+ENOBUFS	plibc.h	175;"	d
+ENOCSI	plibc.h	119;"	d
+ENODATA	plibc.h	138;"	d
+ENOLCK	plibc.h	125;"	d
+ENOLINK	plibc.h	144;"	d
+ENOMEDIUM	plibc.h	209;"	d
+ENONET	plibc.h	141;"	d
+ENOPKG	plibc.h	142;"	d
+ENOPROTOOPT	plibc.h	179;"	d
+ENOSHARE	plibc.h	210;"	d
+ENOSR	plibc.h	140;"	d
+ENOSTR	plibc.h	137;"	d
+ENOSYS	plibc.h	162;"	d
+ENOTCONN	plibc.h	200;"	d
+ENOTEMPTY	plibc.h	166;"	d
+ENOTSOCK	plibc.h	178;"	d
+ENOTSUP	plibc.h	207;"	d
+ENOTUNIQ	plibc.h	153;"	d
+EOPNOTSUPP	plibc.h	172;"	d
+EOVERFLOW	plibc.h	213;"	d
+EPFNOSUPPORT	plibc.h	173;"	d
+EPROCLIM	plibc.h	202;"	d
+EPROTO	plibc.h	148;"	d
+EPROTONOSUPPORT	plibc.h	195;"	d
+EPROTOTYPE	plibc.h	177;"	d
+EREMCHG	plibc.h	155;"	d
+EREMOTE	plibc.h	143;"	d
+ESHUTDOWN	plibc.h	180;"	d
+ESOCKTNOSUPPORT	plibc.h	196;"	d
+ESRMNT	plibc.h	146;"	d
+ESTALE	plibc.h	205;"	d
+ETIME	plibc.h	139;"	d
+ETIMEDOUT	plibc.h	187;"	d
+ETOOMANYREFS	plibc.h	201;"	d
+EUSERS	plibc.h	203;"	d
+EWOULDBLOCK	plibc.h	212;"	d
+EXFULL	plibc.h	129;"	d
+Executor	executor.cpp	/^Executor::Executor()$/;"	f	class:Executor
+Executor	executor.hpp	/^class Executor$/;"	c	namespace:ourapi
+FAKED_BLOCK_SIZE	plibc.h	299;"	d
+FCLOSE	plibc.h	542;"	d
+FCLOSE	plibc.h	640;"	d
+FOPEN	plibc.h	540;"	d
+FOPEN	plibc.h	541;"	d
+FOPEN	plibc.h	639;"	d
+FPRINTF	plibc.h	579;"	d
+FPRINTF	plibc.h	677;"	d
+FSCANF	plibc.h	591;"	d
+FSCANF	plibc.h	689;"	d
+FSTAT	plibc.h	554;"	d
+FSTAT	plibc.h	650;"	d
+FTRUNCATE	plibc.h	543;"	d
+FTRUNCATE	plibc.h	641;"	d
+GETHOSTBYADDR	plibc.h	608;"	d
+GETHOSTBYADDR	plibc.h	706;"	d
+GETHOSTBYNAME	plibc.h	609;"	d
+GETHOSTBYNAME	plibc.h	707;"	d
+GETPEERNAME	plibc.h	596;"	d
+GETPEERNAME	plibc.h	694;"	d
+GETSOCKNAME	plibc.h	597;"	d
+GETSOCKNAME	plibc.h	695;"	d
+GETSOCKOPT	plibc.h	598;"	d
+GETSOCKOPT	plibc.h	696;"	d
+GETTIMEOFDAY	plibc.h	610;"	d
+GETTIMEOFDAY	plibc.h	708;"	d
+GN_FREAD	plibc.h	565;"	d
+GN_FREAD	plibc.h	665;"	d
+GN_FWRITE	plibc.h	566;"	d
+GN_FWRITE	plibc.h	666;"	d
+HAVE_ACCEPT4	MHD_config.h	19;"	d
+HAVE_ARPA_INET_H	MHD_config.h	22;"	d
+HAVE_CLOCK_GETTIME	MHD_config.h	25;"	d
+HAVE_CONFIG_H	platform.h	60;"	d
+HAVE_CONFIG_H	platform.h	62;"	d
+HAVE_DECL_TCP_CORK	MHD_config.h	29;"	d
+HAVE_DECL_TCP_NOPUSH	MHD_config.h	33;"	d
+HAVE_DLFCN_H	MHD_config.h	36;"	d
+HAVE_ERRNO_H	MHD_config.h	39;"	d
+HAVE_FCNTL_H	MHD_config.h	42;"	d
+HAVE_FSEEKO	MHD_config.h	45;"	d
+HAVE_GNUTLS	MHD_config.h	48;"	d
+HAVE_GNUTLS_GNUTLS_H	MHD_config.h	51;"	d
+HAVE_INET6	MHD_config.h	54;"	d
+HAVE_INTTYPES_H	MHD_config.h	57;"	d
+HAVE_LIBCURL	MHD_config.h	60;"	d
+HAVE_LIMITS_H	MHD_config.h	63;"	d
+HAVE_LISTEN_SHUTDOWN	MHD_config.h	66;"	d
+HAVE_LOCALE_H	MHD_config.h	69;"	d
+HAVE_MATH_H	MHD_config.h	72;"	d
+HAVE_MEMMEM	MHD_config.h	75;"	d
+HAVE_MEMORY_H	MHD_config.h	78;"	d
+HAVE_MESSAGES	MHD_config.h	81;"	d
+HAVE_NETDB_H	MHD_config.h	84;"	d
+HAVE_NETINET_IN_H	MHD_config.h	87;"	d
+HAVE_NETINET_TCP_H	MHD_config.h	90;"	d
+HAVE_PLIBC_FD	plibc.h	45;"	d
+HAVE_POLL_H	MHD_config.h	96;"	d
+HAVE_PTHREAD_H	MHD_config.h	99;"	d
+HAVE_STDINT_H	MHD_config.h	105;"	d
+HAVE_STDIO_H	MHD_config.h	108;"	d
+HAVE_STDLIB_H	MHD_config.h	111;"	d
+HAVE_STRINGS_H	MHD_config.h	114;"	d
+HAVE_STRING_H	MHD_config.h	117;"	d
+HAVE_SYS_MMAN_H	MHD_config.h	120;"	d
+HAVE_SYS_MSG_H	MHD_config.h	123;"	d
+HAVE_SYS_SELECT_H	MHD_config.h	126;"	d
+HAVE_SYS_SOCKET_H	MHD_config.h	129;"	d
+HAVE_SYS_STAT_H	MHD_config.h	132;"	d
+HAVE_SYS_TIME_H	MHD_config.h	135;"	d
+HAVE_SYS_TYPES_H	MHD_config.h	138;"	d
+HAVE_TIME_H	MHD_config.h	141;"	d
+HAVE_UNISTD_H	MHD_config.h	144;"	d
+HCREATE	plibc.h	614;"	d
+HCREATE	plibc.h	712;"	d
+HCREATE_R	plibc.h	617;"	d
+HCREATE_R	plibc.h	715;"	d
+HDESTROY	plibc.h	615;"	d
+HDESTROY	plibc.h	713;"	d
+HDESTROY_R	plibc.h	618;"	d
+HDESTROY_R	plibc.h	716;"	d
+HOST_NOT_FOUND	plibc.h	215;"	d
+HOST_NOT_FOUND	plibc.h	216;"	d
+HSEARCH	plibc.h	613;"	d
+HSEARCH	plibc.h	711;"	d
+HSEARCH_R	plibc.h	616;"	d
+HSEARCH_R	plibc.h	714;"	d
+HTTPS_SUPPORT	MHD_config.h	153;"	d
+INSQUE	plibc.h	611;"	d
+INSQUE	plibc.h	709;"	d
+IdleTime	plibc.h	/^    LARGE_INTEGER IdleTime;$/;"	m	struct:__anon2
+KernelTime	plibc.h	/^    LARGE_INTEGER KernelTime;$/;"	m	struct:__anon2
+LFIND	plibc.h	624;"	d
+LFIND	plibc.h	722;"	d
+LIBCURL_FEATURE_IDN	MHD_config.h	159;"	d
+LIBCURL_FEATURE_IPV6	MHD_config.h	162;"	d
+LIBCURL_FEATURE_LIBZ	MHD_config.h	168;"	d
+LIBCURL_FEATURE_NTLM	MHD_config.h	171;"	d
+LIBCURL_FEATURE_SSL	MHD_config.h	174;"	d
+LIBCURL_PROTOCOL_DICT	MHD_config.h	180;"	d
+LIBCURL_PROTOCOL_FILE	MHD_config.h	183;"	d
+LIBCURL_PROTOCOL_FTP	MHD_config.h	186;"	d
+LIBCURL_PROTOCOL_FTPS	MHD_config.h	189;"	d
+LIBCURL_PROTOCOL_HTTP	MHD_config.h	192;"	d
+LIBCURL_PROTOCOL_HTTPS	MHD_config.h	195;"	d
+LIBCURL_PROTOCOL_LDAP	MHD_config.h	198;"	d
+LIBCURL_PROTOCOL_TELNET	MHD_config.h	201;"	d
+LIBCURL_PROTOCOL_TFTP	MHD_config.h	204;"	d
+LINUX	MHD_config.h	207;"	d
+LISTEN	plibc.h	599;"	d
+LISTEN	plibc.h	697;"	d
+LOCK_EX	plibc.h	311;"	d
+LOCK_NB	plibc.h	312;"	d
+LOCK_SH	plibc.h	310;"	d
+LOCK_UN	plibc.h	314;"	d
+LSEARCH	plibc.h	625;"	d
+LSEARCH	plibc.h	723;"	d
+LSEEK	plibc.h	550;"	d
+LSEEK	plibc.h	649;"	d
+LSTAT	plibc.h	576;"	d
+LSTAT	plibc.h	674;"	d
+LSTAT64	plibc.h	577;"	d
+LSTAT64	plibc.h	675;"	d
+LT_OBJDIR	MHD_config.h	211;"	d
+Li2Double	plibc.h	71;"	d
+MAP_ANONYMOUS	plibc.h	229;"	d
+MAP_FAILED	plibc.h	230;"	d
+MAP_FIXED	plibc.h	228;"	d
+MAP_PRIVATE	plibc.h	227;"	d
+MAP_SHARED	plibc.h	226;"	d
+MHD_GCRYPT_VERSION	MHD_config.h	214;"	d
+MHD_PLATFORM_H	platform.h	35;"	d
+MHD_REQ_CURL_GNUTLS_VERSION	MHD_config.h	217;"	d
+MHD_REQ_CURL_NSS_VERSION	MHD_config.h	220;"	d
+MHD_REQ_CURL_OPENSSL_VERSION	MHD_config.h	223;"	d
+MHD_REQ_CURL_VERSION	MHD_config.h	226;"	d
+MKFIFO	plibc.h	569;"	d
+MKFIFO	plibc.h	669;"	d
+MMAP	plibc.h	568;"	d
+MMAP	plibc.h	668;"	d
+MSDOS_SUPER_MAGIC	plibc.h	302;"	d
+MSG_DONTWAIT	plibc.h	109;"	d
+MSYNC	plibc.h	570;"	d
+MSYNC	plibc.h	670;"	d
+MS_ASYNC	plibc.h	232;"	d
+MS_INVALIDATE	plibc.h	233;"	d
+MS_SYNC	plibc.h	234;"	d
+MUNMAP	plibc.h	571;"	d
+MUNMAP	plibc.h	671;"	d
+NEWLINE	plibc.h	532;"	d
+NEWLINE	plibc.h	631;"	d
+NO_ADDRESS	plibc.h	221;"	d
+NO_ADDRESS	plibc.h	222;"	d
+NO_RECOVERY	plibc.h	219;"	d
+NO_RECOVERY	plibc.h	220;"	d
+NTFS_SUPER_MAGIC	plibc.h	303;"	d
+OPEN	plibc.h	547;"	d
+OPEN	plibc.h	645;"	d
+OPENDIR	plibc.h	544;"	d
+OPENDIR	plibc.h	642;"	d
+PACKAGE	MHD_config.h	250;"	d
+PACKAGE_BUGREPORT	MHD_config.h	253;"	d
+PACKAGE_NAME	MHD_config.h	256;"	d
+PACKAGE_STRING	MHD_config.h	259;"	d
+PACKAGE_TARNAME	MHD_config.h	262;"	d
+PACKAGE_VERSION	MHD_config.h	265;"	d
+PAGE	httphandler.cpp	14;"	d	file:
+PATH_SEPARATOR	plibc.h	530;"	d
+PATH_SEPARATOR	plibc.h	629;"	d
+PATH_SEPARATOR_STR	plibc.h	531;"	d
+PATH_SEPARATOR_STR	plibc.h	630;"	d
+PIPE	plibc.h	556;"	d
+PIPE	plibc.h	654;"	d
+PLIBC_CTIME	plibc.h	538;"	d
+PLIBC_CTIME	plibc.h	637;"	d
+PLIBC_KILL	plibc.h	555;"	d
+PLIBC_KILL	plibc.h	648;"	d
+PLIBC_SEARCH_ACTION	plibc.h	/^PLIBC_SEARCH_ACTION;$/;"	t	typeref:enum:__anon3
+PLIBC_SEARCH_ENTER	plibc.h	/^    PLIBC_SEARCH_ENTER$/;"	e	enum:__anon3
+PLIBC_SEARCH_ENTRY	plibc.h	/^PLIBC_SEARCH_ENTRY;$/;"	t	typeref:struct:PLIBC_SEARCH_entry
+PLIBC_SEARCH_FIND	plibc.h	/^    PLIBC_SEARCH_FIND,$/;"	e	enum:__anon3
+PLIBC_SEARCH_QELEM	plibc.h	/^struct PLIBC_SEARCH_QELEM$/;"	s
+PLIBC_SEARCH_VISIT	plibc.h	/^PLIBC_SEARCH_VISIT;$/;"	t	typeref:enum:__anon4
+PLIBC_SEARCH__action_fn_t	plibc.h	/^typedef void (*PLIBC_SEARCH__action_fn_t) (__const void *__nodep, PLIBC_SEARCH_VISIT __value,$/;"	t
+PLIBC_SEARCH__compar_fn_t	plibc.h	/^typedef int (*PLIBC_SEARCH__compar_fn_t) (__const void *, __const void *);$/;"	t
+PLIBC_SEARCH__free_fn_t	plibc.h	/^typedef void (*PLIBC_SEARCH__free_fn_t) (void *__nodep);$/;"	t
+PLIBC_SEARCH_endorder	plibc.h	/^  PLIBC_SEARCH_endorder,$/;"	e	enum:__anon4
+PLIBC_SEARCH_entry	plibc.h	/^typedef struct PLIBC_SEARCH_entry$/;"	s
+PLIBC_SEARCH_hsearch_data	plibc.h	/^struct PLIBC_SEARCH_hsearch_data$/;"	s
+PLIBC_SEARCH_leaf	plibc.h	/^  PLIBC_SEARCH_leaf$/;"	e	enum:__anon4
+PLIBC_SEARCH_postorder	plibc.h	/^  PLIBC_SEARCH_postorder,$/;"	e	enum:__anon4
+PLIBC_SEARCH_preorder	plibc.h	/^  PLIBC_SEARCH_preorder,$/;"	e	enum:__anon4
+PRINTF	plibc.h	578;"	d
+PRINTF	plibc.h	676;"	d
+PROT_READ	plibc.h	224;"	d
+PROT_WRITE	plibc.h	225;"	d
+RANDOM	plibc.h	573;"	d
+RANDOM	plibc.h	655;"	d
+READ	plibc.h	564;"	d
+READ	plibc.h	664;"	d
+READDIR	plibc.h	546;"	d
+READDIR	plibc.h	644;"	d
+READLINK	plibc.h	575;"	d
+READLINK	plibc.h	673;"	d
+RECV	plibc.h	600;"	d
+RECV	plibc.h	698;"	d
+RECVFROM	plibc.h	601;"	d
+RECVFROM	plibc.h	699;"	d
+REMOVE	plibc.h	557;"	d
+REMOVE	plibc.h	657;"	d
+REMQUE	plibc.h	612;"	d
+REMQUE	plibc.h	710;"	d
+RENAME	plibc.h	558;"	d
+RENAME	plibc.h	658;"	d
+RESTRICT	platform.h	75;"	d
+RMDIR	plibc.h	551;"	d
+RMDIR	plibc.h	651;"	d
+Reserved1	plibc.h	/^    LARGE_INTEGER Reserved1[2];$/;"	m	struct:__anon2
+Reserved2	plibc.h	/^    ULONG Reserved2;$/;"	m	struct:__anon2
+SCANF	plibc.h	590;"	d
+SCANF	plibc.h	688;"	d
+SELECT	plibc.h	602;"	d
+SELECT	plibc.h	700;"	d
+SEND	plibc.h	603;"	d
+SEND	plibc.h	701;"	d
+SENDTO	plibc.h	604;"	d
+SENDTO	plibc.h	702;"	d
+SETSOCKOPT	plibc.h	605;"	d
+SETSOCKOPT	plibc.h	703;"	d
+SHUTDOWN	plibc.h	606;"	d
+SHUTDOWN	plibc.h	704;"	d
+SHUT_RD	plibc.h	330;"	d
+SHUT_RDWR	plibc.h	307;"	d
+SHUT_RDWR	plibc.h	331;"	d
+SHUT_WR	plibc.h	329;"	d
+SIGALRM	plibc.h	32;"	d
+SIGKILL	plibc.h	333;"	d
+SIGTERM	plibc.h	334;"	d
+SOCKET	plibc.h	607;"	d
+SOCKET	plibc.h	705;"	d
+SPRINTF	plibc.h	585;"	d
+SPRINTF	plibc.h	683;"	d
+SRANDOM	plibc.h	574;"	d
+SRANDOM	plibc.h	656;"	d
+SSCANF	plibc.h	587;"	d
+SSCANF	plibc.h	685;"	d
+STAT	plibc.h	559;"	d
+STAT	plibc.h	659;"	d
+STAT64	plibc.h	560;"	d
+STAT64	plibc.h	660;"	d
+STDC_HEADERS	MHD_config.h	274;"	d
+STRERROR	plibc.h	572;"	d
+STRERROR	plibc.h	672;"	d
+SYMLINK	plibc.h	567;"	d
+SYMLINK	plibc.h	667;"	d
+SYSCONF	plibc.h	561;"	d
+SYSCONF	plibc.h	661;"	d
+SYSTEM_INFORMATION_CLASS	plibc.h	/^enum SYSTEM_INFORMATION_CLASS$/;"	g
+SYSTEM_PROCESSOR_PERFORMANCE_INFORMATION	plibc.h	/^} SYSTEM_PROCESSOR_PERFORMANCE_INFORMATION;$/;"	t	typeref:struct:__anon2
+S_IRGRP	plibc.h	317;"	d
+S_IROTH	plibc.h	319;"	d
+S_IRWXG	plibc.h	326;"	d
+S_IRWXO	plibc.h	327;"	d
+S_ISGID	plibc.h	324;"	d
+S_ISUID	plibc.h	323;"	d
+S_ISVTX	plibc.h	325;"	d
+S_IWGRP	plibc.h	318;"	d
+S_IWOTH	plibc.h	321;"	d
+S_IXGRP	plibc.h	320;"	d
+S_IXOTH	plibc.h	322;"	d
+SetErrnoFromWinError	plibc.h	336;"	d
+StrUtil	strutil.hpp	/^class StrUtil$/;"	c	namespace:ourapi
+SystemBasicInformation	plibc.h	/^  SystemBasicInformation = 0,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemCacheInformation	plibc.h	/^  SystemCacheInformation,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemDriverInformation	plibc.h	/^  SystemDriverInformation,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemExceptionInformation	plibc.h	/^  SystemExceptionInformation = 33,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemHandleList	plibc.h	/^  SystemHandleList,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemInterruptInformation	plibc.h	/^  SystemInterruptInformation = 23,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemLookasideInformation	plibc.h	/^  SystemLookasideInformation = 45$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemPerformanceInformation	plibc.h	/^  SystemPerformanceInformation = 2,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemProcessInformation	plibc.h	/^  SystemProcessInformation = 5,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemProcessorPerformanceInformation	plibc.h	/^  SystemProcessorPerformanceInformation = 8,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemRegistryQuotaInformation	plibc.h	/^  SystemRegistryQuotaInformation = 37,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+SystemTimeOfDayInformation	plibc.h	/^  SystemTimeOfDayInformation = 3, \/* was SystemTimeInformation *\/$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+TDELETE	plibc.h	621;"	d
+TDELETE	plibc.h	719;"	d
+TDESTROY	plibc.h	623;"	d
+TDESTROY	plibc.h	721;"	d
+TFIND	plibc.h	620;"	d
+TFIND	plibc.h	718;"	d
+TPanicProc	plibc.h	/^typedef void (*TPanicProc) (int, char *);$/;"	t
+TRY_AGAIN	plibc.h	217;"	d
+TRY_AGAIN	plibc.h	218;"	d
+TSEARCH	plibc.h	619;"	d
+TSEARCH	plibc.h	717;"	d
+TWALK	plibc.h	622;"	d
+TWALK	plibc.h	720;"	d
+TYPE_JSON	executor.hpp	/^        TYPE_JSON, TYPE_XML   $/;"	e	enum:ourapi::Executor::outputType
+TYPE_XML	executor.hpp	/^        TYPE_JSON, TYPE_XML   $/;"	e	enum:ourapi::Executor::outputType
+UNLINK	plibc.h	562;"	d
+UNLINK	plibc.h	662;"	d
+Unknown1	plibc.h	/^  Unknown1,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown10	plibc.h	/^  Unknown10,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown12	plibc.h	/^  Unknown12,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown13	plibc.h	/^  Unknown13,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown14	plibc.h	/^  Unknown14,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown15	plibc.h	/^  Unknown15,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown17	plibc.h	/^  Unknown17,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown18	plibc.h	/^  Unknown18,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown19	plibc.h	/^  Unknown19,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown20	plibc.h	/^  Unknown20,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown22	plibc.h	/^  Unknown22,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown4	plibc.h	/^  Unknown4,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown6	plibc.h	/^  Unknown6,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown7	plibc.h	/^  Unknown7,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+Unknown9	plibc.h	/^  Unknown9,$/;"	e	enum:SYSTEM_INFORMATION_CLASS
+UserTime	plibc.h	/^    LARGE_INTEGER UserTime;$/;"	m	struct:__anon2
+VERSION	MHD_config.h	277;"	d
+VFPRINTF	plibc.h	581;"	d
+VFPRINTF	plibc.h	679;"	d
+VFSCANF	plibc.h	588;"	d
+VFSCANF	plibc.h	686;"	d
+VPRINTF	plibc.h	580;"	d
+VPRINTF	plibc.h	678;"	d
+VSCANF	plibc.h	589;"	d
+VSCANF	plibc.h	687;"	d
+VSNPRINTF	plibc.h	583;"	d
+VSNPRINTF	plibc.h	681;"	d
+VSPRINTF	plibc.h	582;"	d
+VSPRINTF	plibc.h	680;"	d
+VSSCANF	plibc.h	586;"	d
+VSSCANF	plibc.h	684;"	d
+WAITPID	plibc.h	592;"	d
+WAITPID	plibc.h	690;"	d
+WEXITSTATUS	plibc.h	105;"	d
+WINDOWS	plibc.h	42;"	d
+WORDS_BIGENDIAN	MHD_config.h	286;"	d
+WRITE	plibc.h	563;"	d
+WRITE	plibc.h	663;"	d
+_GNU_SOURCE	MHD_config.h	4;"	d
+_LP64	platform.h	44;"	d
+_OPEN_MSGQ_EXT	platform.h	43;"	d
+_OPEN_SYS_SOCK_IPV6	platform.h	42;"	d
+_OPEN_THREADS	platform.h	41;"	d
+_PLIBC_H_	plibc.h	29;"	d
+_PLIBC_SEARCH_ENTRY	plibc.h	/^_PLIBC_SEARCH_ENTRY;$/;"	t	typeref:struct:_PLIBC_SEARCH_ENTRY
+_PLIBC_SEARCH_ENTRY	plibc.h	/^typedef struct _PLIBC_SEARCH_ENTRY$/;"	s
+_REAL_SNPRINTF	plibc.h	584;"	d
+_REAL_SNPRINTF	plibc.h	682;"	d
+_SC_PAGESIZE	plibc.h	/^  _SC_PAGESIZE = 30,$/;"	e	enum:__anon1
+_SC_PAGE_SIZE	plibc.h	/^  _SC_PAGE_SIZE = 30$/;"	e	enum:__anon1
+_XOPEN_SOURCE_EXTENDED	platform.h	39;"	d
+__API_FOR_REST_OR_WHATEVER__	api.hpp	2;"	d
+__BIG_ENDIAN	plibc.h	65;"	d
+__BYTE_ORDER	plibc.h	64;"	d
+__EXECUTOR_FOR_API__	executor.hpp	2;"	d
+__G_WIN32_H__	plibc.h	68;"	d
+__OUR_STRUTILS__	strutil.hpp	2;"	d
+_apiparams	api.hpp	/^    map<string, set<string> > _apiparams;$/;"	m	class:ourapi::api
+_executeAPI	api.cpp	/^bool api::_executeAPI(const string& url, const set<string>& argvals, $/;"	f	class:api
+_executor	api.hpp	/^    Executor _executor;$/;"	m	class:ourapi::api
+_generateOutput	executor.cpp	/^void Executor::_generateOutput(void *data, outputType type, string& output)$/;"	f	class:Executor
+_getInvalidResponse	api.cpp	/^void api::_getInvalidResponse(string& response)$/;"	f	class:api
+_validate	api.cpp	/^bool api::_validate(const void *data)$/;"	f	class:api
+_win_comparison_fn_t	plibc.h	/^typedef PLIBC_SEARCH__compar_fn_t _win_comparison_fn_t;$/;"	t
+api	api.cpp	/^    string api;$/;"	m	struct:validate_data	file:
+api	api.cpp	/^api::api()$/;"	f	class:api
+api	api.hpp	/^class api$/;"	c	namespace:ourapi
+data	plibc.h	/^    void *data;$/;"	m	struct:PLIBC_SEARCH_entry
+diskinfo	executor.cpp	/^bool Executor::diskinfo(const set<string>& args, outputType type, $/;"	f	class:Executor
+entry	plibc.h	/^  PLIBC_SEARCH_ENTRY entry;$/;"	m	struct:_PLIBC_SEARCH_ENTRY
+eraseAllChars	strutil.cpp	/^void StrUtil::eraseAllChars(string& val, const char *chars_to_erase)$/;"	f	class:StrUtil
+eraseWhiteSpace	strutil.cpp	/^void StrUtil::eraseWhiteSpace(string& val)$/;"	f	class:StrUtil
+error_t	plibc.h	101;"	d
+executeAPI	api.cpp	/^bool api::executeAPI(const string& url, const map<string, string>& argvals, string& response)$/;"	f	class:api
+f_bavail	plibc.h	/^  long f_bavail;                \/* free blocks avail to non-superuser *\/$/;"	m	struct:statfs
+f_bfree	plibc.h	/^  long f_bfree;                 \/* free blocks in fs *\/$/;"	m	struct:statfs
+f_blocks	plibc.h	/^  long f_blocks;                \/* total data blocks in file system *\/$/;"	m	struct:statfs
+f_bsize	plibc.h	/^  long f_bsize;                 \/* optimal transfer block size *\/$/;"	m	struct:statfs
+f_ffree	plibc.h	/^  long f_ffree;                 \/* free file nodes in fs *\/$/;"	m	struct:statfs
+f_files	plibc.h	/^  long f_files;                 \/* total file nodes in file system *\/$/;"	m	struct:statfs
+f_fsid	plibc.h	/^  long f_fsid;                  \/* file system id *\/$/;"	m	struct:statfs
+f_namelen	plibc.h	/^  long f_namelen;               \/* maximum length of filenames *\/$/;"	m	struct:statfs
+f_spare	plibc.h	/^  long f_spare[6];              \/* spare for later *\/$/;"	m	struct:statfs
+f_type	plibc.h	/^  long f_type;                  \/* type of filesystem (see below) *\/$/;"	m	struct:statfs
+filled	plibc.h	/^    unsigned int filled;$/;"	m	struct:PLIBC_SEARCH_hsearch_data
+get_url_args	httphandler.cpp	/^static int get_url_args(void *cls, MHD_ValueKind kind,$/;"	f	file:
+handle_term	httphandler.cpp	/^void handle_term(int signo)$/;"	f
+http	httphandler.cpp	/^void* http(void *arg)$/;"	f
+key	plibc.h	/^    char *key;$/;"	m	struct:PLIBC_SEARCH_entry
+main	httphandler.cpp	/^int main (int argc, char *const *argv)$/;"	f
+ourapi	api.hpp	/^namespace  ourapi$/;"	n
+ourapi	executor.hpp	/^namespace ourapi$/;"	n
+ourapi	strutil.hpp	/^namespace ourapi$/;"	n
+outputType	executor.hpp	/^    enum outputType {$/;"	g	class:ourapi::Executor
+params	api.cpp	/^    set <string>* params; $/;"	m	struct:validate_data	file:
+pid_t	plibc.h	97;"	d
+procinfo	executor.cpp	/^bool Executor::procinfo(const set<string>& args, outputType type, $/;"	f	class:Executor
+q_back	plibc.h	/^    struct qelem *q_back;$/;"	m	struct:PLIBC_SEARCH_QELEM	typeref:struct:PLIBC_SEARCH_QELEM::qelem
+q_data	plibc.h	/^    char q_data[1];$/;"	m	struct:PLIBC_SEARCH_QELEM
+q_forw	plibc.h	/^    struct qelem *q_forw;$/;"	m	struct:PLIBC_SEARCH_QELEM	typeref:struct:PLIBC_SEARCH_QELEM::qelem
+sa_family_t	plibc.h	/^typedef unsigned int sa_family_t;$/;"	t
+send_bad_response	httphandler.cpp	/^static int send_bad_response( struct MHD_Connection *connection)$/;"	f	file:
+shouldNotExit	httphandler.cpp	/^static int shouldNotExit = 1;$/;"	v	file:
+size	plibc.h	/^    unsigned int size;$/;"	m	struct:PLIBC_SEARCH_hsearch_data
+sleep	plibc.h	295;"	d
+sockaddr_un	plibc.h	/^struct sockaddr_un {$/;"	s
+splitString	strutil.cpp	/^void StrUtil::splitString(const string& input, const char* delims,$/;"	f	class:StrUtil
+st_atime	plibc.h	/^    __time64_t st_atime;$/;"	m	struct:stat64
+st_ctime	plibc.h	/^    __time64_t st_ctime;$/;"	m	struct:stat64
+st_dev	plibc.h	/^    _dev_t st_dev;$/;"	m	struct:stat64
+st_gid	plibc.h	/^    short st_gid;$/;"	m	struct:stat64
+st_ino	plibc.h	/^    _ino_t st_ino;$/;"	m	struct:stat64
+st_mode	plibc.h	/^    _mode_t st_mode;$/;"	m	struct:stat64
+st_mtime	plibc.h	/^    __time64_t st_mtime;$/;"	m	struct:stat64
+st_nlink	plibc.h	/^    short st_nlink;$/;"	m	struct:stat64
+st_rdev	plibc.h	/^    _dev_t st_rdev;$/;"	m	struct:stat64
+st_size	plibc.h	/^    __int64 st_size;$/;"	m	struct:stat64
+st_uid	plibc.h	/^    short st_uid;$/;"	m	struct:stat64
+stat64	plibc.h	/^struct stat64$/;"	s
+statfs	plibc.h	/^struct statfs$/;"	s
+strcasecmp	plibc.h	520;"	d
+strncasecmp	plibc.h	522;"	d
+sun_family	plibc.h	/^  short sun_family; \/*AF_UNIX*\/$/;"	m	struct:sockaddr_un
+sun_path	plibc.h	/^  char sun_path[108]; \/*path name *\/$/;"	m	struct:sockaddr_un
+sysinfo	executor.cpp	/^bool Executor::sysinfo(const set<string>& args, outputType type, $/;"	f	class:Executor
+table	plibc.h	/^    struct _PLIBC_SEARCH_ENTRY *table;$/;"	m	struct:PLIBC_SEARCH_hsearch_data	typeref:struct:PLIBC_SEARCH_hsearch_data::_PLIBC_SEARCH_ENTRY
+tcinfo	executor.cpp	/^bool Executor::tcinfo(const set<string>& args, outputType type, $/;"	f	class:Executor
+url_handler	httphandler.cpp	/^static int url_handler ($/;"	f	file:
+used	plibc.h	/^  unsigned int used;$/;"	m	struct:_PLIBC_SEARCH_ENTRY
+validate_data	api.cpp	/^struct validate_data$/;"	s	file:
+wcscasecmp	plibc.h	521;"	d
+wcsncasecmp	plibc.h	523;"	d
